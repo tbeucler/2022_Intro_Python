@@ -6,7 +6,7 @@ These tutorials and exercises adapt excellent online resources to efficiently in
      
 - [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html) by Ryan Abernathey, Kerry Key, and Tim Crone ([License](https://creativecommons.org/licenses/by-sa/4.0/)).      
 - The [Urban Computing Skills Lab bootcamp](https://github.com/Mohitsharma44/ucsl17) by Mohit Sharma, Federica Bianco, and Stanislav Sobolevsky ([License](https://github.com/Mohitsharma44/ucsl17/blob/master/LICENSE)).     
-- IBM Congnitive Class: ["Introduction to Python"](https://github.com/computationalcore/introduction-to-python) by Vin Busquet and Raph Trajano ([License](https://github.com/computationalcore/introduction-to-python/blob/master/LICENSE)).         
+- [Cognitive Class.ai](https://cognitiveclass.ai/): ["Introduction to Python"](https://github.com/computationalcore/introduction-to-python) by Vin Busquet and Raph Trajano ([License](https://github.com/computationalcore/introduction-to-python/blob/master/LICENSE)).         
 - [CS 345](https://www.online.colostate.edu/courses/CS/CS345.dot): Machine Learning Foundations and Practice       
 - [Python Data Science Handbook](https://www.oreilly.com/library/view/python-data-science/9781491912126/)       
 - [mlcourse.ai](https://mlcourse.ai/book/topic02/topic02_additional_seaborn_matplotlib_plotly.html)      
