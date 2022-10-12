@@ -15,7 +15,8 @@ These tutorials and exercises adapt excellent online resources to efficiently in
 There are many excellent tutorials to get started with Python, such as:     
       
 - [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/) by © Software Carpentry and © Data Carpentry ([License](https://creativecommons.org/licenses/by/4.0/)), if you need a tutorial that focuses on the fundamentals and goes at a slower pace than this tutorial.
-- The [Python Basics](https://energy4climate.pages.in2p3.fr/public/education/machine_learning_for_climate_and_energy/notebooks/1_tutorial_introduction.html) page from [Machine Learning for Climate and Energy](https://energy4climate.pages.in2p3.fr/public/education/machine_learning_for_climate_and_energy/chapters/frontmatter.html) by Bruno Deremble and Alexis Tantet ([License](https://creativecommons.org/licenses/by-sa/4.0/)). This page is appropriate if you are looking for a quick tutorial covering the libraries to get started with machine learning for the environmental sciences.
+- The [Python Basics](https://energy4climate.pages.in2p3.fr/public/education/machine_learning_for_climate_and_energy/notebooks/1_tutorial_introduction.html) page from [Machine Learning for Climate and Energy](https://energy4climate.pages.in2p3.fr/public/education/machine_learning_for_climate_and_energy/chapters/frontmatter.html) by Bruno Deremble and Alexis Tantet ([License](https://creativecommons.org/licenses/by-sa/4.0/)). This page is appropriate if you are looking for a quick tutorial covering the libraries to get started with machine learning for the environmental sciences.   
+- [Pythia Foundations](https://foundations.projectpythia.org/landing-page.html), which is a community learning resource for Python-based computing in the geosciences     
 
 If you are struggling with some of the exercises, do not hesitate to:     
     
