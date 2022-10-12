@@ -22,5 +22,5 @@ If you are struggling with some of the exercises, do not hesitate to:
     
 - Use a direct Internet search, or [stackoverflow](https://stackoverflow.com/)
 - Ask your neighbor(s), the teacher, or the TA for help
-- Debug your program, e.g. by following [this tutorial](https://swcarpentry.github.io/python-novice-inflammation/11-debugging/index.html)
-- Use assertions, e.g. by following [this tutorial](https://swcarpentry.github.io/python-novice-inflammation/10-defensive/index.html)
+- Debug your program, e.g., by following [this tutorial](https://swcarpentry.github.io/python-novice-inflammation/11-debugging/index.html)
+- Use assertions, e.g., by following [this tutorial](https://swcarpentry.github.io/python-novice-inflammation/10-defensive/index.html)
