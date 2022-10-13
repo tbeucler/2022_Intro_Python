@@ -11,6 +11,12 @@ These tutorials and exercises adapt excellent online resources to efficiently in
 - [Python Data Science Handbook](https://www.oreilly.com/library/view/python-data-science/9781491912126/)       
 - [mlcourse.ai](https://mlcourse.ai/book/topic02/topic02_additional_seaborn_matplotlib_plotly.html)      
 - [DataCamp data-science and machine learning courses](https://github.com/ozlerhakan/datacamp)       
+- [Geopandas official website: Introduction to GeoPandas](https://geopandas.org/en/stable/getting_started/introduction.html)   
+- [Automating GIS process](https://autogis-site.readthedocs.io/en/latest/notebooks/L2/01-geopandas-basics.html)    
+- [Use Data for Earth and Environmental Science in Open Source Python](https://www.earthdatascience.org/courses/use-data-open-source-python/)
+- [The Shapely User Manual](https://shapely.readthedocs.io/en/stable/manual.html)
+- [Geospatial Analysis with Python and R](https://kodu.ut.ee/~kmoch/geopython2020/index.html)
+- [Introduction to Geospatial Data in Python](https://www.datacamp.com/tutorial/geospatial-data-python)
 
 There are many excellent tutorials to get started with Python, such as:     
       
